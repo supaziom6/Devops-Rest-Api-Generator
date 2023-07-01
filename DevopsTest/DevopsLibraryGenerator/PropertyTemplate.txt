@@ -1,0 +1,4 @@
+    /// <summary>
+    /// {0}
+    /// </summary>{1}
+    public {2} {3} {{ get; set; }}

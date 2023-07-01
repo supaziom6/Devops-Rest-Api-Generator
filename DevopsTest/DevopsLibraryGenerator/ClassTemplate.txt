@@ -1,0 +1,8 @@
+namespace {0}.Models;
+
+/// <summary>
+/// {1}
+/// </summary>
+public {2} {3} {{
+{4}
+}}
